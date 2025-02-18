@@ -107,3 +107,4 @@ C:\DevTools\csharp\BlazorApp1.Tests\obj\Debug\net9.0\refint\BlazorApp1.Tests.dll
 C:\DevTools\csharp\BlazorApp1.Tests\obj\Debug\net9.0\BlazorApp1.Tests.pdb
 C:\DevTools\csharp\BlazorApp1.Tests\obj\Debug\net9.0\BlazorApp1.Tests.genruntimeconfig.cache
 C:\DevTools\csharp\BlazorApp1.Tests\obj\Debug\net9.0\ref\BlazorApp1.Tests.dll
+C:\DevTools\csharp\BlazorApp1.Tests\obj\Debug\net9.0\BlazorApp1.Tests.sourcelink.json
