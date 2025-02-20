@@ -27,7 +27,7 @@ pipeline {
 
     stage('Send Test Errors to ClickUp') {
       steps {
-        bat 'powershell -File parse_tests_clickup.ps1'
+        bat 'powershell -ExecutionPolicy Bypass -File "C:\\DevTools\\parse_tests_clickup.ps1"'
       }
     }
 
