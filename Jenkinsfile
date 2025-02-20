@@ -4,7 +4,6 @@ pipeline {
     stage('Checkout') {
       steps {
         echo 'Jenkins esegue automaticamente il pull del codice dal repository'
-        git(credentialsId: 'github-token', url: 'https://github.com/MrEntity303/csharp', branch: 'my-new-brach-pipeline')
       }
     }
 
