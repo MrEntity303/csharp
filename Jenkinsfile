@@ -4,6 +4,7 @@ pipeline {
     stage('Checkout') {
       steps {
         echo 'Jenkins esegue automaticamente il pull del codice dal repository'
+        echo 'prova'
       }
     }
 
